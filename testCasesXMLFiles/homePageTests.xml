@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HomePageSuit">
+  <test thread-count="5" name="All Tests realted to homepage">
+    <classes>
+      <class name="com.MercuryTravels.Tests.HomePageTest"/>
+    </classes>
+  </test> <!-- All Tests realted to homepage -->
+</suite> <!-- HomePageSuit -->
